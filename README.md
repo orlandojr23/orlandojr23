@@ -2,7 +2,7 @@
 
 # Hi there, I'm Orlando Junior 👋
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=16&pause=12000&color=10B981&center=true&vCenter=true&width=400&lines=AI+%26+Software+Developer&duration=5500)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=16&pause=1000&color=10B981&center=true&vCenter=true&width=400&lines=AI+%26+Software+Developer&duration=5500)](https://git.io/typing-svg)
 
 ---
 
@@ -16,5 +16,5 @@ Whether I'm designing scalable web apps, agentic workflows, or sleek user interf
 
 ### Connect
 
-- 🌐 **Portfolio**: [orlandojr23.onrender.com](https://github.com/orlandojr23/my-portfolio)
+- 🌐 **Portfolio**: [orlandojunior.onrender.com](https://orlandojunior.onrender.com)
 - 📅 **Google Calendar**: [Schedule a Chat](https://calendar.google.com/calendar/render?action=TEMPLATE&add=orlandojuniorfornolles@gmail.com)
