@@ -2,7 +2,7 @@
 
 # Hi there, I'm Orlando Junior 👋
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=16&pause=1000&color=10B981&center=true&vCenter=true&width=400&lines=AI+%26+Software+Developer&duration=5500)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=16&pause=13000&color=10B981&center=true&vCenter=true&width=400&lines=AI+%26+Software+Developer&duration=5500)](https://git.io/typing-svg)
 
 ---
 
