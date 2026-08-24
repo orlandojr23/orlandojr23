@@ -2,7 +2,7 @@
 
 # Hi there 👋, I'm OJ
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=2500&pause=12000&color=38BDF8&center=true&vCenter=true&width=435&lines=AI+%26+Software+Developer)](https://orlandojunior.onrender.com)
+`AI & SOFTWARE DEVELOPER`
 
 </div>
 
