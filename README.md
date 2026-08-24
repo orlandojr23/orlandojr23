@@ -2,8 +2,8 @@
 
 # Hi there 👋, I'm OJ
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=10000&repeat=false&color=38BDF8&center=true&vCenter=true&width=435&lines=AI+%26+Software+Developer)](https://orlandojunior.onrender.com)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=6000&repeat=false&color=38BDF8&center=true&vCenter=true&width=435&lines=AI+%26+Software+Developer)](https://orlandojunior.onrender.com)
 
 </div>
 
-Software developer passionate about building intuitive web applications and exploring agentic AI workflows. Focused on crafting clean user experiences, robust architectures, and practical tools that make complex systems feel effortless.
+I'm an AI & software developer based in Cebu, Philippines. I focus on building intuitive web applications, scalable full-stack projects, and exploring **agentic AI** workflows to create software that feels powerful yet remarkably simple to use.
