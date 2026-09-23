@@ -1,9 +1,9 @@
-<div align="center">
+<h2 align="center">Hi there 👋, I'm OJ</h2>
 
-# Hi there 👋, I'm OJ
+---
 
-[![AI & Software Developer](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=1&pause=10000000&repeat=false&color=38BDF8&center=true&vCenter=true&width=435&lines=AI+%26+Software+Developer)](https://orlandojunior.onrender.com)
+<h3 align="center">$\color{#93b8a1}{\texttt{AI \& Software Developer}}$</h3>
 
-</div>
+<br>
 
 I'm an AI & software developer based in Cebu, Philippines. I focus on building intuitive web applications, scalable full-stack projects, and exploring **agentic AI** workflows to create software that feels powerful yet remarkably simple to use.
