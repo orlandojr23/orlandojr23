@@ -2,9 +2,11 @@
 
 ---
 
-$$
-\color{#93b8a1}{\texttt{AI, Software \& Indie Developer}}
-$$
+<div align="center">
+
+$\color{#93b8a1}{\texttt{AI, Software } \cdot \texttt{ Indie Developer}}$
+
+</div>
 
 <br>
 
