@@ -1,9 +1,9 @@
-<h2 align="center">Hi there, I'm OJ</h2>
+<h2 align="center">Hi there 👋, I'm OJ</h2>
 
 ---
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&weight=500&size=22&duration=1&pause=10000&color=93b8a1&center=true&vCenter=true&width=500&lines=Software+Developer" alt="Software Developer" />
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Geist+Mono&weight=500&size=22&duration=1&pause=10000&color=93b8a1&center=true&vCenter=true&width=500&lines=Software+Developer" alt="Software Developer" />
 </div>
 
 <br>
