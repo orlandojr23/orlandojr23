@@ -8,4 +8,4 @@
 
 <br>
 
-I'm a software developer based in Cebu, Philippines. I mostly work on full stack web projects and enjoy exploring how AI can be used in practical, everyday tools. I try to keep things simple and easy to use, and I am getting a little better with each project.
+I'm a software developer based in Cebu, Philippines. I mostly work on full stack web projects and enjoy exploring how AI fits into everyday tools. I try to keep what I build clear and easy to pick up, and I am getting a little better with each project.
