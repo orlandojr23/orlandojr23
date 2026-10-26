@@ -1,7 +1,7 @@
 <h2 align="center">Hi there 👋, I'm OJ</h2>
 
 <div align="center">
-<img src="https://readme-typing-svg.herokuapp.com/?font=Geist+Mono&weight=500&size=22&duration=250&pause=4000&color=93b8a1&center=true&vCenter=true&width=500&lines=Software+Developer" alt="Software Developer" />
+<img src="https://readme-typing-svg.herokuapp.com/?font=Geist+Mono&weight=500&size=22&duration=200&pause=4000&color=93b8a1&center=true&vCenter=true&width=500&lines=Software+Developer&repeat=true&startDelay=1000" alt="Software Developer" />
 </div>
 
 <br>
