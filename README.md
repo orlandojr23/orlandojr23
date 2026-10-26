@@ -6,16 +6,19 @@
 
 <br>
 
-I'm a software developer based in Cebu, Philippines. I mostly work on full stack web projects and enjoy exploring how AI fits into everyday tools. I try to keep what I build clear and easy to pick up, and I am getting a little better with each project.
+<p align="center">
+  I'm a software developer based in Cebu, Philippines. I mostly work on full stack web projects and enjoy exploring how AI fits into everyday tools. I try to keep what I build clear and easy to pick up, and I am getting a little better with each project.
+</p>
 
 <p align="center">
+  <br />
   <img src="https://cdn.simpleicons.org/javascript" alt="JavaScript" height="38" />
   &nbsp;&nbsp;&nbsp;
   <img src="https://cdn.simpleicons.org/react" alt="React" height="38" />
   &nbsp;&nbsp;&nbsp;
   <img src="https://cdn.simpleicons.org/vite" alt="Vite" height="38" />
   &nbsp;&nbsp;&nbsp;
-  <img src="https://cdn.simpleicons.org/nextdotjs" alt="Next.js" height="38" />
+  <img src="https://cdn.simpleicons.org/nextdotjs/93b8a1" alt="Next.js" height="38" />
   &nbsp;&nbsp;&nbsp;
   <img src="https://cdn.simpleicons.org/tailwindcss" alt="Tailwind CSS" height="38" />
   &nbsp;&nbsp;&nbsp;
@@ -33,5 +36,5 @@ I'm a software developer based in Cebu, Philippines. I mostly work on full stack
   &nbsp;&nbsp;&nbsp;
   <img src="https://upload.wikimedia.org/wikipedia/commons/9/9a/Visual_Studio_Code_1.35_icon.svg" alt="VS Code" height="38" />
   &nbsp;&nbsp;&nbsp;
-  <img src="https://cdn.simpleicons.org/opencode" alt="OpenCode" height="38" />
+  <img src="https://cdn.simpleicons.org/opencode/93b8a1" alt="OpenCode" height="38" />
 </p>
